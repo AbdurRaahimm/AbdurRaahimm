@@ -39,7 +39,7 @@ I'm [Sayed Abdur Rahim](#), Front End and WordPress Developer from <img src="htt
 [![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](#)
 
 
-### GitHub Trophy
+### GitHub Trophy :
  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdurraahimm" alt="abdurraahimm" /></a> 
 
   
