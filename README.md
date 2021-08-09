@@ -40,7 +40,8 @@ I'm [Sayed Abdur Rahim](#), Front End and WordPress Developer from <img src="htt
 
 
 ### GitHub Trophy :
- <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdurraahimm" alt="abdurraahimm" /></a> 
+<img src="https://github-profile-trophy.vercel.app/?username=AbdurRaahimm" alt="abdurraahimm" />
+
 
   
 
