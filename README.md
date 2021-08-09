@@ -13,19 +13,23 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="code.gif" height="20%" width="100%" /><br>
-<h2>Hi There my gorgeous friend <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"></h2> 
+<img src="code.gif" height="500"  /><br>
+<h2>Hi There my gorgeous friend <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://komarev.com/ghpvc/?username=abdurraahimm&label=Profile%20views&color=0e75b6&style=flat" alt="abdurraahimm" /></h2>
 
 I'm [Sayed Abdur Rahim](#), Front End and WordPress Developer from <img src="https://image.flaticon.com/icons/svg/323/323299.svg" width="13"/> Bangladesh
 
-:coffee: &emsp;Connect with me!
+### Connect with me :
 
-[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/AbdurRahim1996)[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdur-rahim4g/) [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/abdurrahim4g/) [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AbdurRahim4G) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rahim703936@gmail.com)
+[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/AbdurRahim1996) 
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdur-rahim4g/) 
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/abdurrahim4g/) 
+[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AbdurRahim4G) 
+[![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rahim703936@gmail.com)
+
+<a href="https://twitter.com/abdurrahim4g" target="blank"><img src="https://img.shields.io/twitter/follow/abdurrahim4g?logo=twitter&style=for-the-badge" alt="abdurrahim4g" /></a>
 
 
-
-
-#### Things I code with
+### Languages and Tools:
 
 [![SASS Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](#) 
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) 
@@ -35,12 +39,11 @@ I'm [Sayed Abdur Rahim](#), Front End and WordPress Developer from <img src="htt
 [![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](#)
 
 
-#### Profile Visits 
+### GitHub Trophy
+ <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdurraahimm" alt="abdurraahimm" /></a> 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=AbdurRaahimm.AbdurRaahimm)
+  
 
-
-#### GitHub Stats 
-
-
+<img align="right"  src="https://github-readme-stats.vercel.app/api/top-langs?username=abdurraahimm&show_icons=true&locale=en&theme=gotham" alt="abdurraahimm" />
 <img src="https://github-readme-stats.vercel.app/api?username=AbdurRaahimm&show_icons=true&theme=gotham" alt="AbdurRaahimm" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdurraahimm&show_icons=true&theme=gotham" alt="abdurraahimm" />
