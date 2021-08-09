@@ -44,8 +44,8 @@ I'm [Sayed Abdur Rahim](#), Front End and WordPress Developer from <img src="htt
 
   
 
-<img align="right"  src="https://github-readme-stats.vercel.app/api/top-langs?username=abdurraahimm&show_icons=true&locale=en&theme=gotham" alt="abdurraahimm" />
+<img align="right"  src="https://github-readme-stats.vercel.app/api/top-langs?username=AbdurRaahimm&show_icons=true&theme=gotham" alt="abdurraahimm" />
 <img src="https://github-readme-stats.vercel.app/api?username=AbdurRaahimm&show_icons=true&theme=gotham" alt="AbdurRaahimm" />
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdurraahimm&show_icons=true&theme=gotham" alt="abdurraahimm" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AbdurRaahimm&show_icons=true&theme=gotham" alt="abdurraahimm" />
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=AbdurRahim&show_icons=true&theme=gotham" alt="abdurraahimm" />
