@@ -38,17 +38,18 @@ I'm [Sayed Abdur Rahim](#), Front End and WordPress Developer from <img src="htt
 [![VSCode Badge](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)](#) 
 [![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](#)
 
+<hr>
 
 ### GitHub Trophy :
 <img src="https://github-profile-trophy.vercel.app/?username=AbdurRaahimm" alt="abdurraahimm" />
 
 
   
-
+<hr>
 <img align="right"  src="https://github-readme-stats.vercel.app/api/top-langs?username=AbdurRaahimm&show_icons=true&theme=gotham" alt="abdurraahimm" />
 <img src="https://github-readme-stats.vercel.app/api?username=AbdurRaahimm&show_icons=true&theme=gotham" alt="AbdurRaahimm" />
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AbdurRaahimm&show_icons=true&theme=gotham" alt="abdurraahimm" />
-
+<hr>
  <!---<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=AbdurRahim&show_icons=true&theme=gotham" alt="abdurraahimm" />-->
 
 <img src="https://wakatime.com/share/@AbdurRahim/cb6e521d-184d-487b-bdae-b92382bb9472.svg"></img>
