@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 <h2>Hi There my gorgeous friend <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://komarev.com/ghpvc/?username=abdurraahimm&label=Profile%20views&color=0e75b6&style=flat" alt="abdurraahimm" /></h2>
 
 I'm [Sayed Abdur Rahim](#), Front End and WordPress Developer from <img src="https://image.flaticon.com/icons/svg/323/323299.svg" width="13"/> Bangladesh
+![GitHub metrics](https://metrics.lecoq.io/AbdurRaahimm)  
 
 ### Connect with me :
 
@@ -49,7 +50,10 @@ I'm [Sayed Abdur Rahim](#), Front End and WordPress Developer from <img src="htt
 <img align="right"  src="https://github-readme-stats.vercel.app/api/top-langs?username=AbdurRaahimm&show_icons=true&theme=gotham" alt="abdurraahimm" />
 <img src="https://github-readme-stats.vercel.app/api?username=AbdurRaahimm&show_icons=true&theme=gotham" alt="AbdurRaahimm" />
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AbdurRaahimm&show_icons=true&theme=gotham" alt="abdurraahimm" />
+
 <hr>
- <!---<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=AbdurRahim&show_icons=true&theme=gotham" alt="abdurraahimm" />-->
+<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=AbdurRaahimm) -->
+<img src="https://activity-graph.herokuapp.com/graph?username=AbdurRaahimm" alt=" grap " />
+<!--  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=AbdurRahim&show_icons=true&theme=gotham" alt="abdurraahimm" /> -->
 
 <img src="https://wakatime.com/share/@AbdurRahim/cb6e521d-184d-487b-bdae-b92382bb9472.svg"></img>
