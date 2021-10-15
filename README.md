@@ -38,6 +38,16 @@ I'm [Sayed Abdur Rahim](#), Front End and WordPress Developer from <img src="htt
 [![Vue Badge](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)](#) 
 [![VSCode Badge](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)](#) 
 [![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](#)
+[![React Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](#)
+[![tailwind-css Badge](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](#)
+[![bootstrap Badge](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](#)
+[![material Badge](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)](#)
+[![jquery Badge](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)](#)
+[![jquery Badge](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](#)
+
+
+
+
 
 <hr>
 
@@ -56,4 +66,4 @@ I'm [Sayed Abdur Rahim](#), Front End and WordPress Developer from <img src="htt
 <img src="https://activity-graph.herokuapp.com/graph?username=AbdurRaahimm" alt=" grap " />
 <!--  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=AbdurRahim&show_icons=true&theme=gotham" alt="abdurraahimm" /> -->
 
-<img src="https://wakatime.com/share/@AbdurRahim/cb6e521d-184d-487b-bdae-b92382bb9472.svg"></img>
+<!-- <img src="https://wakatime.com/share/@AbdurRahim/cb6e521d-184d-487b-bdae-b92382bb9472.svg"></img> -->
