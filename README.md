@@ -58,8 +58,10 @@ I'm [Sayed Abdur Rahim](#), Front End and WordPress Developer from <img src="htt
 
   
 <hr>
-<img align="right"  src="https://github-readme-stats.vercel.app/api/top-langs?username=AbdurRaahimm&show_icons=true&theme=gotham" alt="abdurraahimm" />
-<img src="https://github-readme-stats.vercel.app/api?username=AbdurRaahimm&show_icons=true&theme=gotham" alt="AbdurRaahimm" />
+<!-- <img align="right"  src="https://github-readme-stats.vercel.app/api/top-langs?username=AbdurRaahimm&show_icons=true&theme=gotham" alt="abdurraahimm" /> -->
+ <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AbdurRaahimm&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=AbdurRaahimm&show_icons=true&theme=gotham" alt="AbdurRaahimm" /> -->
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AbdurRaahimm&layout=compact&langs_count=8&theme=algolia"/>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AbdurRaahimm&show_icons=true&theme=gotham" alt="abdurraahimm" />
 
 <hr>
