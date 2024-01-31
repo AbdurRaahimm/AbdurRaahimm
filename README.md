@@ -54,6 +54,16 @@ I'm [Sayed Abdur Rahim](#), Front End and WordPress Developer from <img src="htt
 
 <hr>
 
+## 📌 Pinned Repositories
+
+<a href="https://github.com/AbdurRaahimm/react-vite-tailwind-starter">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=AbdurRaahimm&repo=react-vite-tailwind-starter&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<a href="https://github.com/AbdurRaahimm/react-vite-tailwind-starter">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=AbdurRaahimm&repo=node-mongodb-connect-starter&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
 ### GitHub Trophy :
 <img src="https://github-profile-trophy.vercel.app/?username=AbdurRaahimm" alt="abdurraahimm" />
 
