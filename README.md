@@ -75,7 +75,6 @@ I'm [Sayed Abdur Rahim](#), Front End and WordPress Developer from <img src="htt
   [![Check out AbdurRaahimm's profile on stardev.io](https://stardev.io/developers/AbdurRaahimm/badge/languages/global.svg)](https://stardev.io/developers/AbdurRaahimm)
   [![Check out AbdurRaahimm's profile on stardev.io](https://stardev.io/developers/AbdurRaahimm/badge/languages/country.svg)](https://stardev.io/developers/AbdurRaahimm)
   [![Check out AbdurRaahimm's profile on stardev.io](https://stardev.io/developers/AbdurRaahimm/badge/languages/locality.svg)](https://stardev.io/developers/AbdurRaahimm)
-  <img src="https://github-profile-trophy.vercel.app/?username=AbdurRaahimm" alt="abdurraahimm" />
   
 </div>
 <hr>
