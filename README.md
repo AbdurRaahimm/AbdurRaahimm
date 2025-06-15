@@ -4,6 +4,8 @@
 
 
 
+
+
 <img src="code.gif"/><br>
 <!--- ## Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"/>-->
 ## <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=false&vCenter=false&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Abdur+Rahim!;+Front+End+and;+WordPress+Developer" />
@@ -54,6 +56,9 @@ I'm [Sayed Abdur Rahim](#), Front End and WordPress Developer from <img src="htt
 
 <hr>
 
+## ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 ## 📌 Pinned Repositories
 
 <a href="https://github.com/AbdurRaahimm/react-vite-tailwind-starter">
@@ -65,20 +70,33 @@ I'm [Sayed Abdur Rahim](#), Front End and WordPress Developer from <img src="htt
 </a>
 
 ### StartDev
-[![Check out AbdurRaahimm's profile on stardev.io](https://stardev.io/developers/AbdurRaahimm/badge/languages/global.svg)](https://stardev.io/developers/AbdurRaahimm)
-[![Check out AbdurRaahimm's profile on stardev.io](https://stardev.io/developers/AbdurRaahimm/badge/languages/locality.svg)](https://stardev.io/developers/AbdurRaahimm)
+<div  style="display: flex; justify-content: space-between; flex-wrap: wrap;">
+  
+  [![Check out AbdurRaahimm's profile on stardev.io](https://stardev.io/developers/AbdurRaahimm/badge/languages/global.svg)](https://stardev.io/developers/AbdurRaahimm)
+  [![Check out AbdurRaahimm's profile on stardev.io](https://stardev.io/developers/AbdurRaahimm/badge/languages/country.svg)](https://stardev.io/developers/AbdurRaahimm)
+  [![Check out AbdurRaahimm's profile on stardev.io](https://stardev.io/developers/AbdurRaahimm/badge/languages/locality.svg)](https://stardev.io/developers/AbdurRaahimm)
+  <img src="https://github-profile-trophy.vercel.app/?username=AbdurRaahimm" alt="abdurraahimm" />
+  
+</div>
+<hr>
+
 
 ### GitHub Trophy :
 <img src="https://github-profile-trophy.vercel.app/?username=AbdurRaahimm" alt="abdurraahimm" />
 
-
-  
 <hr>
-<!-- <img align="right"  src="https://github-readme-stats.vercel.app/api/top-langs?username=AbdurRaahimm&show_icons=true&theme=gotham" alt="abdurraahimm" /> -->
+
+<div  style="display: flex; justify-content: space-between; flex-wrap: wrap;">
+  <!-- <img align="right"  src="https://github-readme-stats.vercel.app/api/top-langs?username=AbdurRaahimm&show_icons=true&theme=gotham" alt="abdurraahimm" /> -->
  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AbdurRaahimm&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=AbdurRaahimm&show_icons=true&theme=gotham" alt="AbdurRaahimm" /> -->
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AbdurRaahimm&layout=compact&langs_count=8&theme=algolia"/>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AbdurRaahimm&show_icons=true&theme=gotham" alt="abdurraahimm" />
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=AbdurRaahimm&show_icons=true&theme=gotham" alt="abdurraahimm" />
+</div>
+
+
+## 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=AbdurRaahimm&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 <hr>
 <!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=AbdurRaahimm) -->
